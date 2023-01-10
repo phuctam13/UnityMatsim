@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Network>
+  <Nodes>
+    <name>1</name>
+    <x>100</x>
+    <y>200</y>
+  </Nodes>
+  <Nodes>
+    <name>2</name>
+    <x>20</x>
+    <y>200</y>
+  </Nodes>
+  <Nodes>
+    <name>3</name>
+    <x>300</x>
+    <y>200</y>
+  </Nodes>
+</Network>
