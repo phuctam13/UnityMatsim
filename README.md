@@ -1,5 +1,6 @@
 # UnityMatsim
-Dies ist ein Unity Projekt um eine 3D Visualisierung von MATSim Simulationenen zu starten.
+Dies ist ein Unity Projekt um eine 3D Visualisierung von einer MATSim Simulationenen zu starten.
+
 ## Getting Started
 
 Anweisungen, um das Projekt auf einem lokalen Computer zu starten.
