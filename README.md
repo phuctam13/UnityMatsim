@@ -8,7 +8,7 @@ Anweisungen, um das Projekt auf einem lokalen Computer zu starten.
 1. Klonen Sie das Repository mit dem Befehl `git clone https://github.com/phuctam13/UnityMatsim.git`
 2. Öffnen Sie Unity und importieren Sie das Projekt durch die Auswahl von "Open" und wählen Sie das Projektverzeichnis.
 3. Für das Projekt wird die Unity 2020.3.17f1 Version genutzt
-4. Öffnen Sie im Prjekt Ordner den Ordner Scenes und öffnen Sie die SampleScene
+4. Öffnen Sie im Projekt Ordner den Ordner Scenes und öffnen Sie die SampleScene
 5. Drücken Sie "Play" button in Unity, um die Simulation zu starten.
 6. Drücken Sie auf Load Network2
 7. Laden Sie die im \Assets\Resources Ordner die network 2 Netzwerk Datei
